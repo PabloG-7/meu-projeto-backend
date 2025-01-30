@@ -43,7 +43,7 @@ UserFlow é um projeto de backend desenvolvido com *Node.js* e *MySQL* para gere
    PORT=3000
    
 2. Execute o script SQL para criar as tabelas no MySQL:
-   sql
+3. 
    CREATE TABLE users (
      id INT AUTO_INCREMENT PRIMARY KEY,
      name VARCHAR(255) NOT NULL,
@@ -59,8 +59,7 @@ UserFlow é um projeto de backend desenvolvido com *Node.js* e *MySQL* para gere
    
 
 ### *Executando o Projeto*
-1. Inicie o servidor:
-   bash
+1. Inicie o servidor: 
    npm start
    
 2. Acesse a API em http://localhost:3000.
@@ -83,7 +82,7 @@ UserFlow é um projeto de backend desenvolvido com *Node.js* e *MySQL* para gere
 
 ### *Criar Usuário*
 - *Requisição*:
-  bash
+  
   POST /api/users
   
   json
