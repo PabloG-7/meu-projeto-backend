@@ -125,28 +125,6 @@ UserFlow é um projeto de backend desenvolvido com *Node.js* e *MySQL* para gere
     "created_at": "2023-10-05T12:34:56.000Z"
   }
   
-
----
-
-## *Contribuição*
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature:
-   bash
-   git checkout -b minha-feature
-   
-3. Commit suas alterações:
-   bash
-   git commit -m "Adicionei uma nova funcionalidade"
-   
-4. Envie as alterações:
-   bash
-   git push origin minha-feature
-   
-5. Abra um pull request.
-
 ---
 
 ## *Licença*
