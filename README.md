@@ -27,11 +27,9 @@ UserFlow é um projeto de backend desenvolvido com *Node.js* e *MySQL* para gere
 
 ---
 2. Navegue até a pasta do projeto:
-   bash
    cd userflow
    
 3. Instale as dependências:
-   bash
    npm install
    
 
